@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/JavaTemplate.iml" filepath="$PROJECT_DIR$/JavaTemplate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Minimum SubArray.iml" filepath="$PROJECT_DIR$/Minimum SubArray.iml" />
     </modules>
   </component>
 </project>
